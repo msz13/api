@@ -1,5 +1,5 @@
 {
-"koty": [
+"listakotow": [
 {id: 1, imieKota:"Mruczek", wagaKota: 5, imieOpiekuna: "Jan", dataUrodzenia: '13.05.2017'}, 
 {id: 2, imieKota:"Filemon", wagaKota: 3, imieOpiekuna: "Ada", dataUrodzenia: '13.05.2017'}, 
 {id: 3, imieKota:"Gawe�", wagaKota: 4, imieOpiekuna: "Ada�", dataUrodzenia: '13.05.2017'}
